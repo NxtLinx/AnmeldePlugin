@@ -1,0 +1,5 @@
+name: Anmelden
+version: 1.0
+main: de.nxtlinx.anmelden.Anmelden
+
+commands:
